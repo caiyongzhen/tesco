@@ -5,6 +5,7 @@
     </view>
 
     <view class="buttonContent">
+      
       <button type="primary" bindtap="starShow">创建评分控件</button>
     </view> 
   </view>
